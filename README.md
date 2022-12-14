@@ -8,7 +8,7 @@
   <img align="left" alt="lucasbado´s LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
 <br/>
-<div>
+<div align="left">
   
   ___"Remember! Reality is an illusion, the universe is a hologram, buy gold, bye!"___ 
   <br/>
