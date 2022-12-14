@@ -11,7 +11,6 @@
 <div align="left">
   
   ___"Remember! Reality is an illusion, the universe is a hologram, buy gold, bye!"___ 
-  <br/>
   
   ___<sub>Bill Cipher, Gravitty Falls</sub>___
  <br/>
