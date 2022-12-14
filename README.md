@@ -10,8 +10,9 @@
 <br/>
 
   ___"Remember! Reality is an illusion, the universe is a hologram, buy gold, bye!"___ 
+  <br/>
   
- ___<sub>Bill Cipher, Gravitty Falls</sub>___
+  ___<sub>Bill Cipher, Gravitty Falls</sub>___
  <br/>
  <img align="center" alt="Bill-pic" height="430" style="border-radius:50px;" 
  src="https://cdn.discordapp.com/attachments/1052606634674888754/1052607357848399923/Bill.gif">
@@ -36,13 +37,9 @@
 
 ##
 
-<div align="center">
-  <a href="https://github.com/lucasbado">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=lucasbado&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucasbado&layout=compact&langs_count=7&theme=tokyonight"/>
-</div>
+ [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lucasbado&count_private=true&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+ [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lucasbado&layout=compact&count_private=true&show_icons=true&theme=tokyonight&langs_count=6)](https://github.com/anuraghazra/github-readme-stats)
+ 
 
 
-
-</div>
 
