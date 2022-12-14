@@ -7,7 +7,10 @@
 <a href="https://www.linkedin.com/in/lucas-alves-dos-santos-78a572213/">
   <img align="left" alt="lucasbado´s LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
+
 <br/>
+<br/>
+
 <div align="left">
   
   ___"Remember! Reality is an illusion, the universe is a hologram, buy gold, bye!"___ 
