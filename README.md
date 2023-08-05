@@ -3,8 +3,9 @@
 <a href="https://www.instagram.com/lucasbado/">
   <img align="left" alt="lucasbado Instagram" width="22px" src="/hussainweb/hussainweb/raw/main/icons/linkedin.png />
 </a>
-
-<img align="left" alt="lucasbado´s LinkedIN" width="22px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-plain.svg" />
+<a href="https://www.instagram.com/lucasbado/">
+  <img align="left" alt="lucasbado´s LinkedIN" width="22px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-plain.svg" />
+</a>
 
 <br/>
 <br/>
