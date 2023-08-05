@@ -1,7 +1,7 @@
 # Welcome!! I'm lucasbado!! ☕👽
 
 <a href="https://www.instagram.com/lucasbado/">
-  <img align="left" alt="lucasbado Instagram" width="22px" src="https://raw.githubusercontent.com/hussainweb/hussainweb/raw/main/icons/linkedin.png />
+  <img align="left" alt="lucasbado Instagram" width="22px" src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/Instagram.svg />
 </a>
 <a href="https://www.instagram.com/lucasbado/">
   <img align="left" alt="lucasbado´s LinkedIN" width="22px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" />
