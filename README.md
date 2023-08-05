@@ -5,7 +5,7 @@
 </a>
 
 <a href="https://www.linkedin.com/in/lucasbado/">
-  <img align="left" alt="lucasbado´s LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+  <img align="center" alt="lucasbado-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
 </a>
 
 <br/>
