@@ -1,10 +1,10 @@
 # Welcome!! I'm lucasbado!! ☕👽
 
 <a href="https://www.instagram.com/lucasbado/">
-  <img align="left" alt="lucasbado Instagram" width="22px" src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/instagram.png" />
+  <img align="left" alt="lucasbado Instagram" width="22px" src="/hussainweb/hussainweb/raw/main/icons/linkedin.png />
 </a>
 
-<a href="https://www.linkedin.com/in/lucas-alves-dos-santos-78a572213/">
+<a href="https://www.linkedin.com/in/lucasbado/">
   <img align="left" alt="lucasbado´s LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
 
