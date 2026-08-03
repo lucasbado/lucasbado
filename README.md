@@ -1,4 +1,4 @@
-# Hello there! I'm Lucas Bado 👋
+# Hello there! I'm Lucas Alves 👋
 
 ### 👨‍💻 Software Developer | React & Python Enthusiast
 
