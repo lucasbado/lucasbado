@@ -41,10 +41,3 @@ I am a developer passionate about building efficient solutions and responsive in
 <br/>
 
 ---
-
-### 📊 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=lucasbado&count_private=true&show_icons=true&theme=tokyonight" alt="Lucas's GitHub Stats" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucasbado&layout=compact&count_private=true&show_icons=true&theme=tokyonight&langs_count=6" alt="Top Languages" height="150"/>
-</div>
